@@ -51,7 +51,11 @@
 
 ! ——— PlayStation 5 ———
 ||telemetry-console.api.playstation.com^
-||telemetry-cii.api.playstation.com^
+||telemetry-cii.api.playstation.com^ 
+||telemetry-web.api.playstation.com^
+||telemetry-mobile.api.playstation.com^
+||telemetry-schema-app.rnps.dl.playstation.net^
+
 ! Unknown how to do: Prevent the "Explore" tab from showing all sorts of random promotions.
 
 ! ——— PlayStation 4 ———
